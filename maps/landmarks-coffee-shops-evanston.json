@@ -1,0 +1,86 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1583266070",
+          "addr:city": "Evanston",
+          "addr:housenumber": "1549",
+          "addr:postcode": "60201",
+          "addr:state": "IL",
+          "addr:street": "Sherman Avenue",
+          "amenity": "cafe",
+          "name": "The Other Brother",
+          "website": "https://www.otherbrothercoffee.com/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.6816811,
+            42.0455414
+          ]
+        },
+        "id": "node/1583266070"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/9278938940",
+          "amenity": "cafe",
+          "name": "Cafe Coralie",
+          "website": "https://www.bestfrenchpastries.com/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.673396,
+            42.0572204
+          ]
+        },
+        "id": "node/9278938940"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/9246688117",
+          "addr:housenumber": "812",
+          "amenity": "cafe",
+          "name": "Cupitol Coffee and Eatery"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.6825521,
+            42.0454106
+          ]
+        },
+        "id": "node/9246688117"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2295263486",
+          "addr:city": "Evanston",
+          "addr:housenumber": "1734",
+          "addr:postcode": "60201",
+          "addr:street": "Sherman Avenue",
+          "addr:street:name": "Sherman",
+          "addr:street:type": "Avenue",
+          "amenity": "cafe",
+          "brand": "Starbucks",
+          "brand:wikidata": "Q37158",
+          "brand:wikipedia": "en:Starbucks",
+          "cuisine": "coffee_shop",
+          "name": "Starbucks",
+          "official_name": "Starbucks Coffee",
+          "takeaway": "yes"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.6820389,
+            42.0496962
+          ]
+        },
+        "id": "node/2295263486"
+      }
+]
