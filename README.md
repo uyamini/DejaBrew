@@ -31,3 +31,4 @@ They noticed that :
 ### What is one quote from the reading that applies to your experience.  Explain how.
 "To understand this, we must consider not just the city as a thing in itself, but the city being perceived by its inhabitants."
 This is the concept we built upon to create our game and explain it to the players. We leveraged their perception of everyday life and how coffee is an essential part of it. People (the city's inhabitants) don't perceive cafes as buildings in the city as much as they perceive them as places where they could get their daily dose of coffee to have a productive day. The incentive in real life is their increased efficiency to do work, and in game, it's the points they get.
+![DejaDrew](https://github.com/uyamini/DejaBrew/assets/59433243/8f90233d-559c-465d-b6be-705653bb7e18)
